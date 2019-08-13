@@ -2,6 +2,14 @@
 
 ###  一款好用的vue滑块验证组件
 
+### 安装
+
+```
+npm i vue-slide-verification
+```
+
+
+
 ## 使用
 
 #### template
@@ -32,7 +40,7 @@ txt 提示文字
 
 ```
 <script>
-import touchCode from '_components/touchCode';
+import touchCode from 'vue-slide-verification';
 export default {
 	components: {
         touchCode
