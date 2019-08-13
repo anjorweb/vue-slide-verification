@@ -1,0 +1,25 @@
+{
+  "name": "vue-slide-verification",
+  "version": "1.0.0",
+  "description": "一款简单好用的vue滑块验证组件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anjorweb/vue-slide-verification.git"
+  },
+  "keywords": [
+    "vue",
+    "slider",
+    "slide",
+    "verification"
+  ],
+  "author": "Anjor Fu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anjorweb/vue-slide-verification/issues"
+  },
+  "homepage": "https://github.com/anjorweb/vue-slide-verification#readme"
+}
