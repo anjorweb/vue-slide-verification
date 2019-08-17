@@ -1,6 +1,6 @@
 {
   "name": "vue-slide-verification",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "一款简单好用的vue滑块验证组件",
   "main": "index.js",
   "scripts": {

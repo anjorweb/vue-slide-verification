@@ -57,7 +57,7 @@ export default {
             this._end = null;
             this._start = null;
             this._move = null;
-            this._init = null;
+            this._comStart = null;
         },
         _start(evt) {
             if (this.moveing) {
