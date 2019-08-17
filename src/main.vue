@@ -37,10 +37,10 @@ export default {
         this.successTxtPos = this.successPosition;
     },
     mounted() {
-        this._init();
+        this._comStart();
     },
     methods: {
-        _init() {
+        _comStart() {
             this.btnView = this.$refs.btnView;
             this.btn = this.btnView.querySelector('.move');
             this.maxX = this.btnView.clientWidth - this.btn.clientWidth;
